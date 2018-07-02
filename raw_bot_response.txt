@@ -1,0 +1,139 @@
+$_/start :
+Main Page
+Welcome to the Official You42 Network Community
+
+--------------------------------
+/faq - ❓ FAQ
+/team - 👔 TEAM
+/dates - 🔜 PRE-SALE, CROWDSALE DATES
+/bounty - ⚠️ BOUNTY
+/whitepaper - 📝 WHITEPAPER
+/now - 🔵 CURRENT STATE
+--------------------------------
+
+If you have any other questions - feel free to ask them here.
+https://u42.io/
+
+$_/faq :
+/about - Questions about the Bitcoin Origins Platform.
+/aboutICO - Questions about the Bitcoin Origins Token Sale
+
+$_/about :
+/01 What is You4?
+/02 Will there be any geographical restrictions to users?
+/03 What will the token be called?
+/04 What will the use of the token be?
+/05 Will I be able to mine U4?
+/06 Where will I be able to buy/ sell U42?
+/07 What type of fees will be implemented on the platform?
+/08 What type of fees will be implemented on the platform?
+/09 Will You42 perform credit checks on potential borrowers?
+/010 In which ways will You42 be accessible to users?
+
+$_/01 : What is You4?
+You42 is the world’s premiere social entertainment platform designed around an ecosystem where creators can engage with fans like never before. You42 is a web application built in HTML5 and accessible through any browser, on any device, anywhere.
+
+$_/02 : Will there be any geographical restrictions to users?
+The products initial launch is in the USA
+
+ 
+$_/03 : What will the token be called?
+U42
+ 
+$_/04 : What will the use of the token be?
+U42 Token is a service token that is used to purchase advertising in a per-use or per-display model based on a rate set by the platform at the time of purchase. The token is based on the Ethereum ERC-20 token standard. U42 Token holders can place advertisements on the You42 Platform by using a compatible Ethereum wallet to access the U42 Token smart contract and transfer tokens for services. Top-ranking content creators on the You42 Platform receive U42 Tokens as a result of their contributions to the platform.  U42 Tokens can also be used to purchase Ucoins, which can be used inside of the You42 Platform to interact with other content creators.
+ 
+$_/05 : Will I be able to mine U4?
+No, all U42 tokens will be created at inception
+ 
+$_/06 : Where will I be able to buy/ sell U42?
+All details regarding exchanges is TBD
+ 
+$_/07 : What type of fees will be implemented on the platform?
+Initially you will only be able purchase U42 token via the ICO; in the future you will be able to purchase the ERC20 token via a MEW. 
+ 
+$_/08 : What type of fees will be implemented on the platform?
+ You42 implements a 2% transaction fee
+
+$_/09 : Will You42 perform credit checks on potential borrowers?
+N/As
+
+$_/010 : In which ways will You42 be accessible to users?
+The You42 platform will be live at the tokenization event. Users simply create a login to access.
+
+
+$_/aboutICO :
+/1 When will the token sale be?
+/2 How many U42 will be created?
+/3 Which currencies will be accepted during the ICO?
+/4 What will the minimum/ maximum contributions be during the token sale?
+/5 What will the breakdown of the token distribution be for the pre-sale/ crowd-sale?
+/6 What will happen to the remaining U42 Token?
+/7 Will there be a vesting schedule for founders and employees?
+/8 What will the raised funds be used for?
+/9 What will the exchange rate be between (ETH/BTC) and U42 Token?
+/10 Will there be any geographical restrictions for investors?
+/11 Where can I store my tokens?
+
+$_/1 : When will the token sale be?
+July 2-August 31
+
+$_/2 : How many U42 will be created?
+525M
+
+$_/3 : Which currencies will be accepted during the ICO?
+USD, Euro, ETH, BTC (working on some others now: TBD)
+ 
+$_/4 : What will the minimum/ maximum contributions be during the token sale?
+none
+ 
+$_/5 : What will the breakdown of the token distribution be for the pre-sale/ crowd-sale?
+Please check whitepaper. 
+  
+$_/6 : What will happen to the remaining U42 Token?
+All remaining tokens will be burned. 
+
+$_/7 : Will there be a vesting schedule for founders and employees?
+Yes. 
+
+$_/8 What will the raised funds be used for?
+Market Expansion 79.5%
+Administration/Operations 20.5%
+
+$_/9 : What will the exchange rate be between (ETH/BTC) and U42 Token?
+1 U42 = 0.50 USD 
+
+$_/10 : Will there be any geographical restrictions for investors?
+Yes, Mainland China and South Korea are restricted.
+
+$_/11 : Where can I store my tokens?
+It’s an ERC20 token. Any MEW 
+
+
+
+$_/team
+💌Community Team💌:
+GM Lead - @Jae_Crowdcreate
+GM - @Christian_Crowdcreate
+GM - @Dean_Crowdcreate
+TM - @Allen_Crowdcreate
+TM - @Cloud_Crowdcreate
+TM - @Paolo_Crowdcreate
+TM - @Cyrus_Crowdcreate
+TM - @Mel_Crowdcreate
+TM - @Rafael_Crowdcreate
+TM - @Ron_Crowdcreate
+TM - @Disney_Crowdcreate
+
+
+$_/dates
+July 2-August 31
+
+$_/bounty 
+TBD
+
+$_/whitepaper
+https://u42.io/U42_Token_White_Paper.pdf
+
+$_/now
+Heading towards token sale!
